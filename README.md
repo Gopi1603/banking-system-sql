@@ -11,6 +11,7 @@ The project includes scripts to create these tables and populate them with sampl
 
 ## Repository Structure
 
+ ```bash
 .
 ├── doc
 │ └── BankingSystem_Documentation.pdf
@@ -19,6 +20,7 @@ The project includes scripts to create these tables and populate them with sampl
 │ ├── insert_data.sql
 │ └── output.pdf
 └── README.md
+ ```
 
 
 ### Contents
